@@ -2,6 +2,7 @@ baseURL = "https://diavohra.github.io/"
 languageCode = "en-us"
 title = "Dia Vohra"
 theme = "hugograyscale"
+publishDir = "docs"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
