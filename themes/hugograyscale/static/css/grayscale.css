@@ -137,6 +137,7 @@ header p {
 .improve-contrast-box {
   background: rgba(0, 0, 0, .7);
   border-radius: 5px;
+  padding: 20px;
 }
 
 @media (min-width: 768px) {
