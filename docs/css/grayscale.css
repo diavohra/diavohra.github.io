@@ -41,12 +41,12 @@ p {
 
 a {
   transition: all 0.2s ease-in-out;
-  color: #42DCA3;
+  color: #DC4242;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #1d9b6c;
+  color: #9B1D1D;
 }
 
 #mainNav {
@@ -135,9 +135,8 @@ header p {
 }
 
 .improve-contrast-box {
-  background: rgba(0, 0, 0, .5);
+  background: rgba(0, 0, 0, .7);
   border-radius: 5px;
-  text-shadow: 0px 0px 8px rgba(0, 0, 0, 1);
 }
 
 @media (min-width: 768px) {
@@ -208,16 +207,16 @@ header p {
 }
 
 .btn-default {
-  color: #42DCA3;
-  border: 1px solid #42DCA3;
+  color: #DC4242;
+  border: 1px solid #DC4242;
   background-color: transparent;
 }
 
 .btn-default:focus, .btn-default:hover {
   color: black;
-  border: 1px solid #42DCA3;
+  border: 1px solid #DC4242;
   outline: none;
-  background-color: #42DCA3;
+  background-color: #DC4242;
 }
 
 ul.banner-social-buttons {

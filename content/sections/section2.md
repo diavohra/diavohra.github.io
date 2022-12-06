@@ -4,7 +4,7 @@ weight: 3
 improvecontrast: true
 ---
 
-## Download Portfolio
+## Portfolio
 
 You can get an overview of the work I do from my portfolio hosted here.
 
