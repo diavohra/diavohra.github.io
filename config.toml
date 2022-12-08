@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Dia Vohra"
 theme = "hugograyscale"
 publishDir = "docs"
-#googleAnalytics = ""
+googleAnalytics = "G-J5FX4QPX1X"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
