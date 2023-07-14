@@ -7,6 +7,66 @@ body {
   height: 100%;
   color: white;
   background-color: black;
+  animation: initFade ease 25s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  -webkit-animation: initFade ease 25s;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-fill-mode: forwards;
+  -moz-animation: initFade ease 25s;
+  -moz-animation-iteration-count: 1;
+  -moz-animation-fill-mode: forwards;
+  -o-animation: initFade ease 25s;
+  -o-animation-iteration-count: 1;
+  -o-animation-fill-mode: forwards;
+  -ms-animation: initFade ease 25s;
+  -ms-animation-iteration-count: 1;
+  -ms-animation-fill-mode: forwards;
+}
+
+@-webkit-keyframes initFade { 
+  0% {
+    opacity: 0;
+}
+  100% {
+    opacity: 1;
+ }
+}
+
+@-moz-keyframes initFade { 
+  0% {
+    opacity: 0;
+}
+  100% {
+    opacity: 1;
+ }
+}
+
+@-o-keyframes initFade { 
+  0% {
+    opacity: 0;
+}
+  100% {
+    opacity: 1;
+ }
+}
+
+@-ms-keyframes initFade { 
+  0% {
+    opacity: 0;
+}
+  100% {
+    opacity: 1;
+ }
+}
+
+@keyframes initFade {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+   }
 }
 
 html {
@@ -128,6 +188,66 @@ a:focus, a:hover {
   }
 }
 
+@-webkit-keyframes fade { 
+  0% {
+
+  }
+  25% {
+    background-image: url("../img/section4-bg.jpg");
+  }
+  50% {
+    background-image: url("../img/section8-bg.jpg");
+  }
+  75% {
+    background-image: url("../img/section18-bg.jpg");
+  }
+}
+
+@-moz-keyframes fade { 
+  0% {
+
+  }
+  25% {
+    background-image: url("../img/section4-bg.jpg");
+  }
+  50% {
+    background-image: url("../img/section8-bg.jpg");
+  }
+  75% {
+    background-image: url("../img/section18-bg.jpg");
+  }
+}
+
+@-o-keyframes fade { 
+  0% {
+
+  }
+  25% {
+    background-image: url("../img/section4-bg.jpg");
+  }
+  50% {
+    background-image: url("../img/section8-bg.jpg");
+  }
+  75% {
+    background-image: url("../img/section18-bg.jpg");
+  }
+}
+
+@-ms-keyframes fade { 
+  0% {
+
+  }
+  25% {
+    background-image: url("../img/section4-bg.jpg");
+  }
+  50% {
+    background-image: url("../img/section8-bg.jpg");
+  }
+  75% {
+    background-image: url("../img/section18-bg.jpg");
+  }
+}
+
 header {
   display: table;
   width: 100%;
@@ -136,10 +256,13 @@ header {
   text-align: center;
   color: white;
   background: url("../img/section7-bg.jpg") no-repeat center center scroll;
-  background-color: black;
   /* background-size: cover; */
 
   animation: fade 25s infinite;
+  -webkit-animation: fade 25s infinite;
+  -moz-animation: fade 25s infinite;
+  -o-animation: fade 25s infinite;
+  -ms-animation: fade 25s infinite;
   /* background-image: url("../img/section7-bg.jpg"), url("../img/section18-bg.jpg"), url("../img/section15-bg.jpg"); */
   background-size: cover;
   background-position: center;
@@ -208,9 +331,21 @@ header p {
   text-align: center !important;
 }
 
+.section-1 {
+  text-align: justify;
+}
+
+@media (max-width: 480px) {
+  .section-1 {
+      max-width: 370px;
+  }
+}
+
 .section-1 img {
   float: left;
   margin-right: 20px;
+  margin-bottom: 20px;
+  display: block;
 }
 
 .section-2 {
