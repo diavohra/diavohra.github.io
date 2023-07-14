@@ -1,11 +1,11 @@
 ---
-title: "Links"
-weight: 3
+title: "Updates"
+weight: 2
 improvecontrast: true
 ---
 
-## Portfolio
+## Updates
 
-You can get an overview of the work I do from my portfolio hosted here.
-
-{{< big-button text="Portfolio" href="https://issuu.com/dia_vohra/docs/diavohra" >}}
+* **Jun 2023**: Joined [DDIR Architecture Studio](https://www.linkedin.com/company/ddir-architecture-studio/) as a Junior Architect
+* **Jun 2023**: Received honourable mention in International Thesis Competition hosted by [Archdais](https://archdais.com/)
+* **Jul 2023**: Got selected for [Charles Correa Gold Medal](https://charlescorreafoundation.org/portfolio/charles-correa-gold-medal/) from RV College of Architecture

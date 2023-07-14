@@ -5,5 +5,5 @@ copyright: "Dia Vohra"
 description: "Architectural Designer"
 
 menu:
-    - {url: "https://issuu.com/dia_vohra/docs/diavohra", name: "Portfolio"}
+    - {url: "https://issuu.com/dia_vohra/docs/diavohra", name: "Portfolio", target: "_blank"}
 ---
