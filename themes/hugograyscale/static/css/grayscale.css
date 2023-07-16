@@ -103,13 +103,13 @@ p {
 
 a {
   transition: all 0.2s ease-in-out;
-  color: #a13333;
+  color: #DC4242;
   font-weight: 510;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #DC4242;
+  color: #d10000;
 }
 
 #mainNav {
