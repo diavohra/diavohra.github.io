@@ -1,9 +1,9 @@
 ---
 title: "Header"
 weight: 1
-improvecontrast: true
+improvecontrast: false
 ---
 
 # Dia Vohra
 
-Architectural Designer
+<!-- Architectural Designer -->
