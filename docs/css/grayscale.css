@@ -116,7 +116,7 @@ a:focus, a:hover {
   font-family: 'Raleway', sans-serif;
   margin-bottom: 0;
   text-transform: uppercase;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid rgb(10, 10, 10);;
   background-color: black;
 }
 
@@ -431,6 +431,7 @@ ul.banner-social-buttons {
 }
 
 footer {
+  background: rgb(10, 10, 10);
   padding: 50px 0;
 }
 
