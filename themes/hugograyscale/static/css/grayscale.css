@@ -259,12 +259,11 @@ header {
   background: url("../img/section7-bg.jpg") no-repeat top center scroll;
   /* background-size: cover; */
 
-  animation: fade 25s infinite;
-  -webkit-animation: fade 25s infinite;
-  -moz-animation: fade 25s infinite;
-  -o-animation: fade 25s infinite;
-  -ms-animation: fade 25s infinite;
-  /* background-image: url("../img/section7-bg.jpg"), url("../img/section18-bg.jpg"), url("../img/section15-bg.jpg"); */
+  animation: fade 25s infinite 1s;
+  -webkit-animation: fade 25s infinite 1s;
+  -moz-animation: fade 25s infinite 1s;
+  -o-animation: fade 25s infinite 1s;
+  -ms-animation: fade 25s infinite 1s;
   background-size: cover;
   background-position: center;
 }
