@@ -351,7 +351,7 @@ header p {
 
 @media (max-width: 480px) {
   .section-1 {
-    max-width: 370px;
+    max-width: 480px;
   }
 
   .section-1 h2 {
@@ -359,7 +359,9 @@ header p {
   }
 
   .section-1 img {
-    text-align: center;
+    display: block;
+    margin: 0 auto;
+    float: none;
   }
 }
 
