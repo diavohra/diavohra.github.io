@@ -288,7 +288,7 @@ header p {
 }
 
 #intro-body h1 {
-  text-shadow: -1.5px 0 #DC4242, 0 1.5px black, 1.5px 0 #DC4242, 0 -1.5px black;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   color: #DC4242;
 }
 
@@ -342,17 +342,25 @@ header p {
   text-align: justify;
 }
 
-@media (max-width: 480px) {
-  .section-1 {
-      max-width: 370px;
-  }
-}
-
 .section-1 img {
   float: left;
   margin-right: 20px;
   margin-bottom: 20px;
   display: block;
+}
+
+@media (max-width: 480px) {
+  .section-1 {
+    max-width: 370px;
+  }
+
+  .section-1 h2 {
+    text-align: center;
+  }
+
+  .section-1 img {
+    text-align: center;
+  }
 }
 
 .section-2 {
