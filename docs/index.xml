@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dia Vohra</title>
-    <link>https://diavohra.github.io/</link>
+    <link>https://diavohra.com/</link>
     <description>Recent content on Dia Vohra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,7 +10,7 @@
     <webMaster>diavohra212@gmail.com (Dia Vohra)</webMaster>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://diavohra.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://diavohra.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
