@@ -297,7 +297,7 @@ header {
   padding: 200px 0;
   text-align: center;
   color: white;
-  background: url("../img/section7-bg.jpg") no-repeat top center scroll;
+  background: url("../img/section7-bg.jpg") no-repeat top center fixed;
   background-size: cover;
   background-position-y: top;
 }
