@@ -476,8 +476,8 @@ footer p {
 }
 
 ::selection {
-  background: #fcfcfc;
-  color: #DC4242;
+  background: #fff;
+  color: #000;
   text-shadow: none;
 }
 
