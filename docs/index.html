@@ -56,9 +56,50 @@
     </li>
     <li class="nav-item">
      <a class="nav-link js-scroll-trigger improve-contrast-box" href="#sec-ind-3">Contact</a>
-    </li><li class="nav-item">
-     <a class="nav-link js-scroll-trigger improve-contrast-box" href="https://issuu.com/dia_vohra/docs/diavohra">Portfolio</a>
-    </li></ul>
+    </li><script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
+
+   <script type="text/javascript">
+    
+
+    
+     
+    const viewerConfig = {
+        embedMode: "LIGHT_BOX"
+    };
+    
+     
+    document.addEventListener("adobe_dc_view_sdk.ready", function () {
+        document.getElementById("view-pdf-btn").disabled = false;
+    });
+    
+     
+    function previewFile()
+    {
+         
+        var adobeDCView = new AdobeDC.View({
+             
+            clientId: "8dbac3424c9f429890e033d4c46e0e06"
+        });
+    
+         
+        adobeDCView.previewFile({
+             
+            content: {
+                 
+                location: {
+                    url: "https://diavohra.com/architectural_portfolio.pdf",
+                    
+
+                },
+            },
+             
+            metaData: {
+                 
+                fileName: "architectural_portfolio.pdf"
+            }
+        }, viewerConfig);
+    };
+        </script><li class="nav-item"><a class="nav-link js-scroll-trigger improve-contrast-box" href="#" onclick="previewFile()">Portfolio</a></li></ul>
   </div>
  </div>
 </nav>
