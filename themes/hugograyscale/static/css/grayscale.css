@@ -316,6 +316,11 @@ header p {
 
 .improve-contrast-box {
   background: rgba(0, 0, 0, .7);
+  backdrop-filter: blur(7px);
+  -webkit-backdrop-filter: blur(7px);
+  -moz-backdrop-filter: blur(7px);
+  -o-backdrop-filter: blur(7px);
+  -ms-backdrop-filter: blur(7px);
   border-radius: 5px;
   padding: 5px;
 }
