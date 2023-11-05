@@ -6,6 +6,7 @@ improvecontrast: true
 
 ## Updates
 
+* **Nov 2023**: Invited as the chief guest and delivered a talk on my thesis at [Acharya's NRV School of Architecture](https://www.acharya.ac.in/acharya%27s-nrv-school-of-architecture), recording can be found [here](https://youtu.be/0-NRnhajcaQ)
 * **Oct 2023**: Became one of the top 5 finalists at the Awards for Excellence in Architectural Thesis 2023 - Social Cause, Zone 4 organized by the [Council of Architecture India](https://www.coa.gov.in/index.php)
 * **Aug 2023**: Won [Ar. B H Rathi Best Thesis of The Year Award](https://rvca.edu.in/best-thesis-award/) organised by Rathi Associates
 * **Aug 2023**: Received special mention in [Thesis of the Year Award](https://archmello.com/thesis#gallery-214) organized by Archmello 

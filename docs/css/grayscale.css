@@ -321,7 +321,6 @@ header p {
   -moz-backdrop-filter: blur(7px);
   -o-backdrop-filter: blur(7px);
   -ms-backdrop-filter: blur(7px);
-  border-radius: 5px;
   padding: 5px;
 }
 
