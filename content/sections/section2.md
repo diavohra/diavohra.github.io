@@ -6,6 +6,7 @@ improvecontrast: true
 
 ## Updates
 
+* **Dec 2023**: Thesis showcased at India's inaugural student Biennale, [Samunnati](https://iaadb2023.com/samunnati.html), hosted by the Ministry of Culture and the Council of Architecture at Lalit Kala Akademi, New Delhi
 * **Nov 2023**: Invited as the chief guest and delivered a talk on my thesis at [Acharya's NRV School of Architecture](https://www.acharya.ac.in/acharya%27s-nrv-school-of-architecture), recording can be found [here](https://youtu.be/0-NRnhajcaQ)
 * **Oct 2023**: Became one of the top 5 finalists at the Awards for Excellence in Architectural Thesis 2023 - Social Cause in South India organized by the [Council of Architecture India](https://www.coa.gov.in/index.php)
 * **Aug 2023**: Won [Ar. B H Rathi Best Thesis of The Year Award](https://rvca.edu.in/best-thesis-award/) organised by Rathi Associates
