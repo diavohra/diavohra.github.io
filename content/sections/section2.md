@@ -6,6 +6,7 @@ improvecontrast: true
 
 ## Updates
 
+* **Jan 2024**: Thesis got featured in the International Online Architecture, Interior and Design Magazine, [ArchiDiaries](https://www.archidiaries.com/academic-projects/uggaha-triggers-of-change-architecture-thesis/)
 * **Jan 2024**: Received special mention in the [International Architectural Thesis Award](https://www.mangoarchitecture.com/special-mentions-2023) hosted by Mango Architecture, among 400+ registrations from around the globe
 * **Dec 2023**: Thesis showcased at India's inaugural student Biennale, [Samunnati](https://iaadb2023.com/samunnati.html), hosted by the Ministry of Culture and the Council of Architecture at Lalit Kala Akademi, New Delhi
 * **Nov 2023**: Invited as the chief guest and delivered a talk on my thesis at [Acharya's NRV School of Architecture](https://www.acharya.ac.in/acharya%27s-nrv-school-of-architecture), recording can be found [here](https://youtu.be/0-NRnhajcaQ)
