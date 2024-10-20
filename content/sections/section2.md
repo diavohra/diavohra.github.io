@@ -7,7 +7,8 @@ improvecontrast: true
 ## Updates
 
 * **Oct 2024**: Attended [Auroville Earth Institute](https://dev.earth-auroville.com/) for Ferrocement research
-* **Apr 2024**: Won [Imagining Tomorrow International Awards](https://www.audacademy.org/ita) conducted by AUDAcademy for thesis presented under Inclusive Learning category
+* **Sep 2024**: Completed Introduction to Urban Design [course](https://www.audacademy.org/introduction-to-urban-design) conducted by AUDA
+* **Apr 2024**: Won [Imagining Tomorrow International Awards](https://www.audacademy.org/ita) organized by AUDAcademy for thesis presented under Inclusive Learning category
 * **Jan 2024**: Thesis got featured in the International Online Architecture, Interior and Design Magazine, [ArchiDiaries](https://www.archidiaries.com/academic-projects/uggaha-triggers-of-change-architecture-thesis/)
 * **Jan 2024**: Received special mention in the [International Architectural Thesis Award](https://www.mangoarchitecture.com/special-mentions-2023) hosted by Mango Architecture, among 400+ registrations from around the globe
 * **Dec 2023**: Thesis showcased at India's inaugural student Biennale, [Samunnati](https://iaadb2023.com/samunnati.html), hosted by the Ministry of Culture and the Council of Architecture at Lalit Kala Akademi, New Delhi
