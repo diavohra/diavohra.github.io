@@ -6,6 +6,7 @@ improvecontrast: true
 
 ## Updates
 
+* **Oct 2024**: Attended [Auroville Earth Institute](https://dev.earth-auroville.com/) for Ferrocement research
 * **Apr 2024**: Won [Imagining Tomorrow International Awards](https://www.audacademy.org/ita) conducted by AUDAcademy for thesis presented under Inclusive Learning category
 * **Jan 2024**: Thesis got featured in the International Online Architecture, Interior and Design Magazine, [ArchiDiaries](https://www.archidiaries.com/academic-projects/uggaha-triggers-of-change-architecture-thesis/)
 * **Jan 2024**: Received special mention in the [International Architectural Thesis Award](https://www.mangoarchitecture.com/special-mentions-2023) hosted by Mango Architecture, among 400+ registrations from around the globe

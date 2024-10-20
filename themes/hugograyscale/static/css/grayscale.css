@@ -325,8 +325,10 @@ header p {
 }
 
 #intro-body h1 {
-  text-shadow: -0.5px 0 #920000, 0 0.5px #920000, 0.5px 0 #920000, 0 -0.5px #920000;
+  /* text-shadow: 4px 2px 0px #920000, -4px -2px 0px #920000; */
   color: #DC4242;
+  text-shadow: 1.5px 0 #920000, -1.5px 0 #920000, 0 1.5px #920000, 0 -1.5px #920000,
+             1.5px 1.5px #920000, -1.5px -1.5px #920000, 1.5px -1.5px #920000, -1.5px 1.5px #920000;
 }
 
 @media (min-width: 768px) {
