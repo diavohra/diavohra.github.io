@@ -6,6 +6,7 @@ improvecontrast: true
 
 ## Updates
 
+* **Jun 2025**: Promoted as Director of [DDIR Architecture Studio](https://www.ddirarchitecture.com/)
 * **Oct 2024**: Attended [Auroville Earth Institute](https://dev.earth-auroville.com/) for Ferrocement research
 * **Sep 2024**: Completed Introduction to Urban Design [course](https://www.audacademy.org/introduction-to-urban-design) conducted by AUDA
 * **Apr 2024**: Won [Imagining Tomorrow International Awards](https://www.audacademy.org/ita) organized by AUDAcademy for thesis presented under Inclusive Learning category

@@ -4,14 +4,9 @@
     <title>Dia Vohra</title>
     <link>https://diavohra.com/</link>
     <description>Recent content on Dia Vohra</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <managingEditor>diavohra212@gmail.com (Dia Vohra)</managingEditor>
-    <webMaster>diavohra212@gmail.com (Dia Vohra)</webMaster>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://diavohra.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://diavohra.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -4,15 +4,13 @@ title = "Dia Vohra"
 theme = "hugograyscale"
 publishDir = "docs"
 googleAnalytics = "G-J5FX4QPX1X"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 [params]
     # Provide some metadata for search and indexing services
-    description = "Personal website of Dia Vohra"
-
-[Author]
-    name = "Dia Vohra"
+    author = "Dia Vohra"
     email = "diavohra212@gmail.com"
+    description = "Personal website of Dia Vohra"
 
 [Social]
     twitter = "stream_running"
