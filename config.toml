@@ -14,3 +14,6 @@ disableKinds = ["taxonomy"]
 
 [Social]
     twitter = "stream_running"
+
+[markup.goldmark.renderer]
+    unsafe = true
